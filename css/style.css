@@ -121,7 +121,7 @@ header {
   transition: 0.5s ease; }
 
 .scrolled.navbar {
-  height: 50px;
+  height: auto;
   background-color: #121c37;
   transition: 0.5s ease;
   box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12) !important; }
